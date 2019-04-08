@@ -19,7 +19,7 @@ You can check [Catlike Coding](https://catlikecoding.com/unity/tutorials/) websi
 
 ### Basics
 These tutorials provide an introduction to working with C# in Unity.
-  - [ ] Game Objects and Scripts
+  - [X] [Game Objects and Scripts](https://github.com/jokerCoder01/CatlikeCoding-Unity-Projects/tree/master/CatlikeCoding/Assets/01-Basics/01-Game%20Objects%20and%20Scripts)
   - [ ] Mathematical Surfaces
   - [ ] Constructing a Fractal
   - [ ] Frames Per Second
